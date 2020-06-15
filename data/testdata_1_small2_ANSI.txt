@@ -1,0 +1,102 @@
+löpnr	hnc1	hnc2	break_inner	outer_carrier#	Namn	Adress	Postadress
+löpnr	hnc1	hnc2	break_inner	outer_carrier#	Namn	Adress	Postadress
+1	25-27	Trans		1	Stemark Jesper Alexander	Klockarvägen 5 I	26270 Strövelstorp
+2	25-27	Trans		1	Henriksson Björn Fredrik Mats	Strövelstorpsvägen 57	26270 Strövelstorp
+3	25-27	Trans		1	Jarnbjer Mattias Anders	Torlarps Allé 1	26270 Strövelstorp
+4	25-27	Trans		1	Thörn Anders Ingemar	Barkåkravägen 151	26291 Ängelholm
+5	25-27	Trans		1	Thörn Anders Ingemar	Barkåkravägen 151	26291 Ängelholm
+6	25-27	Trans		1	Forsberg Eric Marcus Wilhelm	Skepparkroksvägen 20	26291 Änglholm
+7	25-27	Trans		1	Valtinats Lantbruks Aktiebolag	Höjatorpsvägen 67	26293 Ängelholm
+8	25-27	Trans		1	Rundberg Niclas Jan	Häggehusvägen 23	26294 Ängelholm
+9	25-27	Trans		1	Persson Sonny	Olovsdalsvågen 12	26294 Ängelholm
+10	25-27	Trans		1	Elgeborn G.Anders	Janne Petters Väg 31	26376 NYHAMNSLÄGE
+11	25-27	Trans		1	Karlsson Lars Magnus	Krapperups Kyrkoväg 69	26376 Nyhamnsläge
+12	25-27	Trans		1	Norrthon Christoffer Jonas	Krapperups Kyrkoväg 180-6	26376 Nyhamnsläge
+13	25-27	Trans		1	Garsten Paul Ingmar	Lilla vägen 17	263 76 Nyhamnsläge
+14	25-27	Trans		1	Georgiadis Grigorios	Norra Stinsvägen 5	26376 Nyhamnsläge
+15	25-27	Trans		1	Broman Albin Gustaf	Per Cronbergs Väg 11	26376 Nyhamnsläge
+16	25-27	Trans		1	Östberg Johan Lukas	Stinsvägen 10	26376 Nyhamnsläge
+17	25-27	Trans		1	Svensson Patrik	Öfverbergs Väg 10	26376 Nyhamnsläge
+18	25-27	Trans		1	Nilsson Bo Torsten Sigurd	Gyllerödsstigen 3	26377 Mölle
+19	25-27	Trans		1	Bengtsson Carl-Gustaf	Kullenbergstorpsvägen 159	26391 höganäs
+20	25-27	Trans		1	Johannesson Ingela Marina	Mandelgrensvägen 169	26391 Höganäs
+21	25-27	Trans		1	Björklund Pontus Per Andreas	Skärholma 7852	26492 Klippan
+22	25-27	Trans		1	Persson Kristoffer	Söndraby 7618	26492 Klippan
+23	25-27	Trans		1	Andersson Hans Åke Christer	Övad 7806	26492 Klippan
+24	25-27	Trans		1	Larsson Christofer Jörgen Sonny	Ankarlöv 6700	26493 Klippan
+25	25-27	Trans	***	1	Nilsson Mats Åke	Rosenvägen 11	26874 Billeberga
+26	25-27	Trans		1	Olsson Isak Nils Ludwig	Hallgatan 26	27176 Löderup
+27	25-27	Trans		1	Nilsson Sven Anders	Storgatan 64	27176 Löderup
+28	25-27	Trans		1	Knutsson Åsa Britt-Chatrine	Backavägen 47 Löderups Strandbad	27177 Löderup
+29	25-27	Trans		1	Nilsson Mats Erik Anders	Gamla Mälarhusvägen 228-15	27177 Löderup
+30	25-27	Trans		1	Ericsson Björn Otto Andreas	Hagestad Mölleväg 45-28	27177 Löderup
+31	25-27	Trans		1	Ericsson Björn Otto Andreas	Hagestad mölleväg 45-28	27177 Löderup
+32	25-27	Trans		1	Larsson Eva	Vallmobacken 19	27199 Ystad
+33	25-27	Trans		1	Nilsson Mattias Hans Göran	Box 87	27222 Simrishamn
+34	25-27	Trans		1	Lancing Nils Ola Axelsson	Storgatan 17	27231 Simrishamn
+35	25-27	Trans		1	Henriksson Karl Magnus	Ehrenflyktsgatan 7 Lgh 1103	27232 Simrishamn
+36	25-27	Trans		1	Schön Claes-Göran	Peder Mörcks väg 19	27232 Simrishamn
+37	25-27	Trans		1	Ståhl Michael	Storgatan 39 C	272 32 simrishamn
+38	25-27	Trans		1	Olesen Mark	Bisp Eskilsgatan 15	272 34 Simrishamn
+39	25-27	Trans		1	Johansson Daniel Hans-Ingvar	Trädgårdsgatan 10	27234 Simrishamn
+40	25-27	Trans		1	Henriksson Claes Erik	Backgatan 21	27235 Simrishamn
+41	25-27	Trans		1	Vinberg Lage Per Mikael	Dalagatan 23	27235 Simrishamn
+42	25-27	Trans		1	Nilsson Peter Nils Mikael	Fredsdalsgatan 44	27235 Simrishamn
+43	25-27	Trans		1	Persson Jens David	Gröna Gatan 18	27235 Simrishamn
+44	25-27	Trans		1	Nilsson Krister Nils Bertil	Korsavadsvägen 10	27235 Simrishamn
+45	25-27	Trans		1	Rosenberg Lars Christer	Sandgatan 12	27235 Simrishamn
+46	25-27	Trans		1	Östlund Per Anders	Åhällegatan 9	27235 Simrishamn
+47	25-27	Trans		1	Simrishamns varv AB	Lotsgatan 1	27236 Simrishamn
+48	25-27	Trans		1	Olin Niklas Nils Ola	Allingevägen 17	27237 Simrishamn
+49	25-27	Trans		1	Lundgren Patrik	Branteviksvägen42	27237 Simrishamn
+50	25-27	Trans	***	1	Sjöstrand Axel	Teggatan 5	27333 Tomelilla
+51	28-29	Trans		1	Svensson Joakim	Smaragdstigen, 21, Tyringe	28232 Tyringe
+52	28-29	Trans		1	Lina Birgitta Cronström	Trädgårdsgatan 2	28233 Tyringe
+53	28-29	Trans		1	Sjöberg Mathias Michael	Trädgårdsgatan 2	28233 Tyringe
+54	28-29	Trans		1	Jönsson Ann-Christin Gerd	TRÄDGÅRDSGATAN, 1 B LGH 1101	28233 TYRINGE
+55	28-29	Trans		1	Mattsson Tom Bertil	Blekingegatan 10	28234 Tyringe
+56	28-29	Trans		1	Nyberg Per Anton Emanuel	Finlandsgatan 6 B Lgh 1101	28234 Tyringe
+57	28-29	Trans		1	Nordgren Sonja Majvi Irene	Stålgatan 6 A	28234 Tyringe
+58	28-29	Trans		1	Nordgren Sonja Majvi Irene	Stålgatan 6 A	28234 Tyringe
+59	28-29	Trans		1	Ekman Teddy Martin Senny	Svärtingstorpsgatan 9	28234 Tyringe
+60	28-29	Trans		1	Dahlman Mattias Agne Johan	Svärtingstorpsgatan 19	28234 Tyringe
+61	28-29	Trans		1	Nilsson Bo Göran Tommy	Svärtingtorpsgatan 16	28234 Tyringe
+62	28-29	Trans		1	Åkerkvist Magnus Bengt Anders	Smultronslingan 3	28235 Tyringe
+63	28-29	Trans		1	Nilsson Lars-Uno Evert	Smultronslingan 18	28235 Tyringe
+64	28-29	Trans		1	Stehn Anna Leona	Stenbocksgatan 19 C Lgh 1102	28235 Tyringe
+65	28-29	Trans		1	Gustafsson Lena Gerda Charlotte	Slättaröd 1017	282 61 Bjärnum
+66	28-29	Trans		1	Jönsson Mats	Slättaröd pl 1006	28261 BJÄRNUM
+67	28-29	Trans		1	Frederiksen Martha Petrine	Slättaröds skog 1057	28261 Bjärnum
+68	28-29	Trans		1	Nilsson Danny Jan Stefan	Tunnbyvägen 8	28261 Bjärnum
+69	28-29	Trans		1	Troedsson Bengt Erik Göran	Åkarp 1002	28261 Bjärnum
+70	28-29	Trans		1	Dring Robert George	Lyckåsavägen 7	28262 Bjärnum
+71	28-29	Trans		1	Dring Robert George	Lyckåsavägen 7	28262 Bjärnum
+72	28-29	Trans		1	Nordqvist Kurt Adolf Ingmar	Snidarevägen 22	28262 Bjärnum
+73	28-29	Trans		1	Nordqvist Kurt Adolf Ingmar	Snidarevägen 22	28262 Bjärnum
+74	28-29	Trans		1	Nilsson Oscar Karl Göran	Jägargatan 7	28263 Bjärnum
+74	28-29	Trans	***	1	Marke Sven Tomas	Hästhult Brönjet 5253	28268 Vittsjö
+76	28-29	Trans		1	Seerup Olesen Ronny	Ugglestigen 7	28437 Perstorp
+77	28-29	Trans		1	Bengtsson Hans Martin	Eddagatan 13	28438 Perstorp
+78	28-29	Trans		1	Olofsson Magnus Karl Roland	Klövergatan 3	28438 Perstorp
+79	28-29	Trans		1	Trumakonsult AB	Klövergatan 20	284 38 Perstorp
+80	28-29	Trans		1	Wallin Albin Gustav Sakarias	Snorregatan 10	28438 Perstorp
+81	28-29	Trans		1	Svensson Otto Karl	Ydalagatan 1	28438 Perstorp
+82	28-29	Trans		1	Westman Tomas Hans	Blekemossa 203 Landala	284 91 Perstorp
+83	28-29	Trans		1	Kristoffersson Sven Erik	Ebbarp 102	28491 Perstorp
+84	28-29	Trans		1	Långström Karl Göran	Ebbarp 128	28491 Perstorp
+85	28-29	Trans		1	Wendt Johan Henrik	Gustavsborg 602	28491 Perstorp
+86	28-29	Trans		1	Krantz Jörgen	Klingstorp 1019	28491 PERSTORP
+87	28-29	Trans		1	Jarlsson Henrik Mattias	Källstorp 403	28491 Perstorp
+88	28-29	Trans		1	Forsman Patrik Leif Valter	Kåshässle 201	28491 Perstorp
+89	28-29	Trans		1	Nyhlén Börje Karl	Kåshässle 114	28491 Perstorp
+90	28-29	Trans		1	Into Magnus Peter	Köpinge 405	28491 Perstorp
+91	28-29	Trans		1	Into Magnus Peter	Köpinge 405	28491 Perstorp
+92	28-29	Trans		1	Ljung Bengt	Köpingegården 108	28491 Perstorp
+93	28-29	Trans		1	Andersson Claes Tommy Niklas	Månstorp 503	28491 Perstorp
+94	28-29	Trans		1	Månsson Stefan	Skäggestorp 108	28491 Perstorp
+95	28-29	Trans		1	Kristoffersson Anna Maria	Åmod 402	28491 Perstorp
+96	28-29	Trans		1	Gustafsson Kenny Dan Severin	Bälinge 601	28492 Perstorp
+97	28-29	Trans		1	Johansson Leif Håkan Mattias	Bälinge 707	28492 Perstorp
+98	28-29	Trans		1	Madsen Per	Bälinge 733	28492 Perstorp
+99	28-29	Trans		1	Gustafsson Bo Anders	Hagstad 112	28492 Perstorp
+100	28-29	Trans	***	1	Wallin Maria Camilla	Hagstad 600	28492 Perstorp
